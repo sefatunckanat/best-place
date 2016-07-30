@@ -8,11 +8,11 @@ Uygulamayı test etmek için php sunucu ve mysql veri tabanı gereklidir.
 Php sunucusuna atılan kodlar uygulama tarafından istenilen yada gönderilen verilere göre işlem yapıp verileri sisteme kayıt ediyor ve uygulamaya geri gönüş olarak JSON verisi gösteriyor uygulamada bu JSON verisine göre o sayfadaki işlemini yürütüyor.
 Test etmek için proje kodlarındaki 
 
-⋅⋅sefatunckanat/bestplace/utils/Variables.java
+*sefatunckanat/bestplace/utils/Variables.java*
   
 içerisindeki sunucu kısmı değiştirip PHP-server klasörünü ilgili sunucuya sql yedeğiyle beraber yükleyip 
 
-⋅⋅⋅/config.php 
+*/config.php*
   
 dosyası içindeki sunucu ismi ve şifresini değiştirmeniz gerekmekte.
 
@@ -20,8 +20,8 @@ Bu proje Bilgisayar Programcılığı bölümümün son dersinin final sınavı 
 
 Proje hakkında soru(n)lar için :
 
-  ⋅⋅⋅[Facebook](https://www.facebook.com/sefatunckanat73)
-  ⋅⋅⋅[Gmail](mailto:sefatunckanat73@gmail.com)
+  *[Facebook](https://www.facebook.com/sefatunckanat73)*
+  *[Gmail](mailto:sefatunckanat73@gmail.com)*
   
 Readme.md biraz amacını aştı gibi ama olsun iyi çalışmalar :)
 
