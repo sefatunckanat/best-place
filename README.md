@@ -8,7 +8,7 @@ Uygulamayı test etmek için php sunucu ve mysql veri tabanı gereklidir.
 Php sunucusuna atılan kodlar uygulama tarafından istenilen yada gönderilen verilere göre işlem yapıp verileri sisteme kayıt ediyor ve uygulamaya geri gönüş olarak JSON verisi gösteriyor uygulamada bu JSON verisine göre o sayfadaki işlemini yürütüyor.
 Test etmek için proje kodlarındaki 
 
-⋅⋅⋅sefatunckanat/bestplace/utils/Variables.java
+⋅⋅sefatunckanat/bestplace/utils/Variables.java
   
 içerisindeki sunucu kısmı değiştirip PHP-server klasörünü ilgili sunucuya sql yedeğiyle beraber yükleyip 
 
