@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <style name="FULL" parent="@android:style/Theme.Holo.Light.NoActionBar.Fullscreen">
+       	
+    </style>
+    <style name="NOT_FULL" parent="@android:style/Theme.Holo.Light.NoActionBar">
+       	
+    </style>
+    <style name="GINGER_FULL" parent="@android:style/Theme.Light.NoTitleBar.Fullscreen">
+        
+    </style>
+
+    <style name="ACTION_BAR" parent="@android:style/Theme.Holo.Light">
+
+    </style>
+</resources>

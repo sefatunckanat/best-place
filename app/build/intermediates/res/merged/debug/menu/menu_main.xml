@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item
+        android:id="@+id/action_home"
+        android:showAsAction="always"
+        android:title="Anasayfa"
+        android:orderInCategory="1"
+        android:icon="@drawable/action_home"/>
+    <item
+        android:id="@+id/action_discovery"
+        android:showAsAction="always"
+        android:title="Keşfet"
+        android:orderInCategory="2"
+        android:icon="@drawable/action_discovery"/>
+    <item
+        android:id="@+id/action_notif"
+        android:showAsAction="always"
+        android:title="Hareketler"
+        android:orderInCategory="3"
+        android:icon="@drawable/action_notif"/>
+    <item
+        android:id="@+id/action_profile"
+        android:showAsAction="always"
+        android:orderInCategory="4"
+        android:icon="@drawable/action_person"
+        android:title="Profil"/>
+
+    <item
+        android:id="@+id/action_developer"
+        android:showAsAction="collapseActionView"
+        android:orderInCategory="100"
+        android:title="Geliştiricisi"/>
+    <item
+        android:id="@+id/action_exit"
+        android:showAsAction="collapseActionView"
+        android:orderInCategory="100"
+        android:title="Çıkış"/>
+</menu>

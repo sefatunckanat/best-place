@@ -1,0 +1,34 @@
+[
+    {
+        "merged": "/home/sefa/Genel/mega/Ubuntu/workspace/eclipse/BestPlace/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/ic_launcher.png",
+        "source": "/home/sefa/Genel/mega/Ubuntu/workspace/eclipse/BestPlace/app/src/main/res/drawable-hdpi/ic_launcher.png"
+    },
+    {
+        "merged": "/home/sefa/Genel/mega/Ubuntu/workspace/eclipse/BestPlace/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/action_person.png",
+        "source": "/home/sefa/Genel/mega/Ubuntu/workspace/eclipse/BestPlace/app/src/main/res/drawable-hdpi/action_person.png"
+    },
+    {
+        "merged": "/home/sefa/Genel/mega/Ubuntu/workspace/eclipse/BestPlace/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/action_discovery.png",
+        "source": "/home/sefa/Genel/mega/Ubuntu/workspace/eclipse/BestPlace/app/src/main/res/drawable-hdpi/action_discovery.png"
+    },
+    {
+        "merged": "/home/sefa/Genel/mega/Ubuntu/workspace/eclipse/BestPlace/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/action_notif.png",
+        "source": "/home/sefa/Genel/mega/Ubuntu/workspace/eclipse/BestPlace/app/src/main/res/drawable-hdpi/action_notif.png"
+    },
+    {
+        "merged": "/home/sefa/Genel/mega/Ubuntu/workspace/eclipse/BestPlace/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/background.png",
+        "source": "/home/sefa/Genel/mega/Ubuntu/workspace/eclipse/BestPlace/app/src/main/res/drawable-hdpi/background.png"
+    },
+    {
+        "merged": "/home/sefa/Genel/mega/Ubuntu/workspace/eclipse/BestPlace/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/action_home.png",
+        "source": "/home/sefa/Genel/mega/Ubuntu/workspace/eclipse/BestPlace/app/src/main/res/drawable-hdpi/action_home.png"
+    },
+    {
+        "merged": "/home/sefa/Genel/mega/Ubuntu/workspace/eclipse/BestPlace/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/icon.png",
+        "source": "/home/sefa/Genel/mega/Ubuntu/workspace/eclipse/BestPlace/app/src/main/res/drawable-hdpi/icon.png"
+    },
+    {
+        "merged": "/home/sefa/Genel/mega/Ubuntu/workspace/eclipse/BestPlace/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/shape_login_bt.xml",
+        "source": "/home/sefa/Genel/mega/Ubuntu/workspace/eclipse/BestPlace/app/src/main/res/drawable-hdpi/shape_login_bt.xml"
+    }
+]

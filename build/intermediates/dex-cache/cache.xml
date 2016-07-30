@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="/home/sefa/Genel/mega/Ubuntu/workspace/eclipse/BestPlace/app/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="c77753eba43751e3dd3a5e944fb96a62504c233d">
+        <dex dex="/home/sefa/Genel/mega/Ubuntu/workspace/eclipse/BestPlace/app/build/intermediates/pre-dexed/debug/instant-run-bootstrap_cb4233a0f03fdf692369ffb06b168c5154318746.jar" />
+    </item>
+    <item
+        jar="/home/sefa/.gradle/caches/modules-2/files-2.1/org.apache.httpcomponents/httpmime/4.3/5b0002c5fb66867ca919be0fbd86de1cfaf76da7/httpmime-4.3.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="5b0002c5fb66867ca919be0fbd86de1cfaf76da7">
+        <dex dex="/home/sefa/Genel/mega/Ubuntu/workspace/eclipse/BestPlace/app/build/intermediates/pre-dexed/debug/httpmime-4.3_b5f6727d1ca17cabb54f48089611e6b025f3898b.jar" />
+    </item>
+    <item
+        jar="/home/sefa/Genel/mega/Ubuntu/workspace/eclipse/BestPlace/app/build/intermediates/incremental-runtime-classes/debug/instant-run.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="9b4f97da81c265e59b4de0c4f577086efded2ef2">
+        <dex dex="/home/sefa/Genel/mega/Ubuntu/workspace/eclipse/BestPlace/app/build/intermediates/pre-dexed/debug/instant-run_ef56299520bb1f91eab00560545d35ff64ea9dc3.jar" />
+    </item>
+    <item
+        jar="/home/sefa/Genel/mega/Ubuntu/workspace/eclipse/BestPlace/app/build/intermediates/exploded-aar/com.github.siyamed/android-shape-imageview/0.9.3/jars/classes.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="ee07783aa59eefdeacc107abf472f45f60272302">
+        <dex dex="/home/sefa/Genel/mega/Ubuntu/workspace/eclipse/BestPlace/app/build/intermediates/pre-dexed/debug/com.github.siyamed-android-shape-imageview-0.9.3_12aa1ae2fed13de8b7b793a2eaf888d5edbe31a4.jar" />
+    </item>
+    <item
+        jar="/home/sefa/.gradle/caches/modules-2/files-2.1/org.apache.httpcomponents/httpclient-android/4.3.5.1/eecbb0b998e77629862a13d957d552b3be58fc4e/httpclient-android-4.3.5.1.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="eecbb0b998e77629862a13d957d552b3be58fc4e">
+        <dex dex="/home/sefa/Genel/mega/Ubuntu/workspace/eclipse/BestPlace/app/build/intermediates/pre-dexed/debug/httpclient-android-4.3.5.1_7d2066a80e26070b7a92383ccf2e8d3dbed913dd.jar" />
+    </item>
+
+</items>

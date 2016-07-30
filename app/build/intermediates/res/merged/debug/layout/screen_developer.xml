@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+              android:orientation="vertical"
+              android:layout_width="match_parent"
+              android:layout_height="match_parent"
+   >
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:textAppearance="?android:attr/textAppearanceLarge"
+        android:text="Best Place"
+        android:id="@+id/textView3"
+        android:textSize="50dp"
+        android:layout_centerHorizontal="true"
+        android:layout_marginTop="10dp"/>
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:textAppearance="?android:attr/textAppearanceMedium"
+        android:text="Sefa Tunçkanat\n201410614066"
+        android:textSize="30dp"
+        android:layout_marginTop="10dp"
+        android:id="@+id/textView4"
+        android:layout_centerHorizontal="true"
+        android:layout_below="@id/textView3"/>
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="10dp"
+        android:gravity="center"
+        android:textAppearance="?android:attr/textAppearanceMedium"
+        android:text="Balıkesir Üniversitesi\nMeslek Yüksek Okulu\nSistem Analizi ve Tasarımı\nDersi Final Projesi"
+        android:id="@+id/textView5"
+        android:layout_centerHorizontal="true"
+        android:layout_below="@id/textView4"/>
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="30dp"
+        android:gravity="center"
+        android:textSize="15dp"
+        android:textColor="#777"
+        android:textAppearance="?android:attr/textAppearanceMedium"
+        android:text="Geliştirmede kullanılanlar\n\nBalıkesir Üniversite Sunucuları\nandroid hive loaders\nsiyamed android shapes\napache httpcomponents"
+        android:id="@+id/textView6"
+        android:layout_centerHorizontal="true"
+        android:layout_below="@id/textView5"/>
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="20dp"
+        android:gravity="center"
+        android:textSize="14dp"
+        android:textAppearance="?android:attr/textAppearanceMedium"
+        android:text="İletişim\n\nsefatunckanat73@gmail.com\nsefatunckanat.github.io\nfb.com/sefatunckanat73"
+        android:id="@+id/textView7"
+        android:layout_centerHorizontal="true"
+        android:layout_below="@id/textView6"/>
+
+</RelativeLayout>

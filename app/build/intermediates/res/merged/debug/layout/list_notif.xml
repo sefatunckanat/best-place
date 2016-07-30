@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+                xmlns:app="http://schemas.android.com/apk/res-auto"
+                android:orientation="vertical"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:padding="5dp"
+    android:id="@+id/notif_relative">
+    <TextView
+        android:id="@+id/list_notif_id"
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:visibility="gone"/>
+
+    <com.github.siyamed.shapeimageview.CircularImageView
+        android:layout_width="75dp"
+        android:layout_height="75dp"
+        android:background="@drawable/ic_launcher"
+        android:id="@+id/list_notif_picture"
+        app:siBorderWidth="6dp"
+        app:siBorderColor="@color/blue_background_dark"/>
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="xxx sizi takip etmeye başladı."
+        android:textColor="#000"
+        android:textSize="15dp"
+        android:layout_marginTop="20dp"
+        android:layout_marginLeft="15dp"
+        android:id="@+id/list_notif_text"
+        android:layout_alignTop="@+id/list_notif_picture"
+        android:layout_toRightOf="@+id/list_notif_picture"/>
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="06.06.2016"
+        android:textColor="#999"
+        android:textSize="12dp"
+        android:id="@+id/list_notif_date"
+        android:layout_marginRight="15dp"
+        android:layout_marginBottom="15dp"
+        android:layout_alignParentRight="true"/>
+
+</RelativeLayout>

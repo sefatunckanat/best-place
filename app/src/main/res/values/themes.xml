@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <style name="AppTheme" parent="@android:style/Theme.Holo.Light">
+        <item name="android:actionBarStyle">@style/AppTheme.CustomActionBar</item>
+        <item name="android:actionMenuTextColor">#FFF</item>
+    </style>
+
+    <style name="AppTheme.CustomActionBar" parent="@android:style/Widget.Holo.Light.ActionBar">
+        <item name="android:background">#006DD9</item>
+        <item name="android:titleTextStyle">@style/CustomActionBar.CustomTextColor</item>
+        <item name="android:icon">@drawable/ic_launcher</item>
+    </style>
+
+    <style name="CustomActionBar.CustomTextColor" parent="@android:style/TextAppearance">
+        <item name="android:textColor">#fff</item>
+    </style>
+</resources>

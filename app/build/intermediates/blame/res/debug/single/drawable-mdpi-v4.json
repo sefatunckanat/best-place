@@ -1,0 +1,30 @@
+[
+    {
+        "merged": "/home/sefa/Genel/mega/Ubuntu/workspace/eclipse/BestPlace/app/build/intermediates/res/merged/debug/drawable-mdpi-v4/background.png",
+        "source": "/home/sefa/Genel/mega/Ubuntu/workspace/eclipse/BestPlace/app/src/main/res/drawable-mdpi/background.png"
+    },
+    {
+        "merged": "/home/sefa/Genel/mega/Ubuntu/workspace/eclipse/BestPlace/app/build/intermediates/res/merged/debug/drawable-mdpi-v4/action_home.png",
+        "source": "/home/sefa/Genel/mega/Ubuntu/workspace/eclipse/BestPlace/app/src/main/res/drawable-mdpi/action_home.png"
+    },
+    {
+        "merged": "/home/sefa/Genel/mega/Ubuntu/workspace/eclipse/BestPlace/app/build/intermediates/res/merged/debug/drawable-mdpi-v4/action_discovery.png",
+        "source": "/home/sefa/Genel/mega/Ubuntu/workspace/eclipse/BestPlace/app/src/main/res/drawable-mdpi/action_discovery.png"
+    },
+    {
+        "merged": "/home/sefa/Genel/mega/Ubuntu/workspace/eclipse/BestPlace/app/build/intermediates/res/merged/debug/drawable-mdpi-v4/icon.png",
+        "source": "/home/sefa/Genel/mega/Ubuntu/workspace/eclipse/BestPlace/app/src/main/res/drawable-mdpi/icon.png"
+    },
+    {
+        "merged": "/home/sefa/Genel/mega/Ubuntu/workspace/eclipse/BestPlace/app/build/intermediates/res/merged/debug/drawable-mdpi-v4/action_notif.png",
+        "source": "/home/sefa/Genel/mega/Ubuntu/workspace/eclipse/BestPlace/app/src/main/res/drawable-mdpi/action_notif.png"
+    },
+    {
+        "merged": "/home/sefa/Genel/mega/Ubuntu/workspace/eclipse/BestPlace/app/build/intermediates/res/merged/debug/drawable-mdpi-v4/ic_launcher.png",
+        "source": "/home/sefa/Genel/mega/Ubuntu/workspace/eclipse/BestPlace/app/src/main/res/drawable-mdpi/ic_launcher.png"
+    },
+    {
+        "merged": "/home/sefa/Genel/mega/Ubuntu/workspace/eclipse/BestPlace/app/build/intermediates/res/merged/debug/drawable-mdpi-v4/action_person.png",
+        "source": "/home/sefa/Genel/mega/Ubuntu/workspace/eclipse/BestPlace/app/src/main/res/drawable-mdpi/action_person.png"
+    }
+]

@@ -1,0 +1,54 @@
+[
+    {
+        "merged": "/home/sefa/Genel/mega/Ubuntu/workspace/eclipse/BestPlace/app/build/intermediates/res/merged/debug/layout/screen_fullpageimage.xml",
+        "source": "/home/sefa/Genel/mega/Ubuntu/workspace/eclipse/BestPlace/app/src/main/res/layout/screen_fullpageimage.xml"
+    },
+    {
+        "merged": "/home/sefa/Genel/mega/Ubuntu/workspace/eclipse/BestPlace/app/build/intermediates/res/merged/debug/layout/screen_profile.xml",
+        "source": "/home/sefa/Genel/mega/Ubuntu/workspace/eclipse/BestPlace/app/src/main/res/layout/screen_profile.xml"
+    },
+    {
+        "merged": "/home/sefa/Genel/mega/Ubuntu/workspace/eclipse/BestPlace/app/build/intermediates/res/merged/debug/layout/screen_place.xml",
+        "source": "/home/sefa/Genel/mega/Ubuntu/workspace/eclipse/BestPlace/app/src/main/res/layout/screen_place.xml"
+    },
+    {
+        "merged": "/home/sefa/Genel/mega/Ubuntu/workspace/eclipse/BestPlace/app/build/intermediates/res/merged/debug/layout/screen_home.xml",
+        "source": "/home/sefa/Genel/mega/Ubuntu/workspace/eclipse/BestPlace/app/src/main/res/layout/screen_home.xml"
+    },
+    {
+        "merged": "/home/sefa/Genel/mega/Ubuntu/workspace/eclipse/BestPlace/app/build/intermediates/res/merged/debug/layout/screen_splash.xml",
+        "source": "/home/sefa/Genel/mega/Ubuntu/workspace/eclipse/BestPlace/app/src/main/res/layout/screen_splash.xml"
+    },
+    {
+        "merged": "/home/sefa/Genel/mega/Ubuntu/workspace/eclipse/BestPlace/app/build/intermediates/res/merged/debug/layout/list_notif.xml",
+        "source": "/home/sefa/Genel/mega/Ubuntu/workspace/eclipse/BestPlace/app/src/main/res/layout/list_notif.xml"
+    },
+    {
+        "merged": "/home/sefa/Genel/mega/Ubuntu/workspace/eclipse/BestPlace/app/build/intermediates/res/merged/debug/layout/screen_discovery.xml",
+        "source": "/home/sefa/Genel/mega/Ubuntu/workspace/eclipse/BestPlace/app/src/main/res/layout/screen_discovery.xml"
+    },
+    {
+        "merged": "/home/sefa/Genel/mega/Ubuntu/workspace/eclipse/BestPlace/app/build/intermediates/res/merged/debug/layout/screen_login.xml",
+        "source": "/home/sefa/Genel/mega/Ubuntu/workspace/eclipse/BestPlace/app/src/main/res/layout/screen_login.xml"
+    },
+    {
+        "merged": "/home/sefa/Genel/mega/Ubuntu/workspace/eclipse/BestPlace/app/build/intermediates/res/merged/debug/layout/screen_register.xml",
+        "source": "/home/sefa/Genel/mega/Ubuntu/workspace/eclipse/BestPlace/app/src/main/res/layout/screen_register.xml"
+    },
+    {
+        "merged": "/home/sefa/Genel/mega/Ubuntu/workspace/eclipse/BestPlace/app/build/intermediates/res/merged/debug/layout/screen_notif.xml",
+        "source": "/home/sefa/Genel/mega/Ubuntu/workspace/eclipse/BestPlace/app/src/main/res/layout/screen_notif.xml"
+    },
+    {
+        "merged": "/home/sefa/Genel/mega/Ubuntu/workspace/eclipse/BestPlace/app/build/intermediates/res/merged/debug/layout/screen_developer.xml",
+        "source": "/home/sefa/Genel/mega/Ubuntu/workspace/eclipse/BestPlace/app/src/main/res/layout/screen_developer.xml"
+    },
+    {
+        "merged": "/home/sefa/Genel/mega/Ubuntu/workspace/eclipse/BestPlace/app/build/intermediates/res/merged/debug/layout/screen_edit.xml",
+        "source": "/home/sefa/Genel/mega/Ubuntu/workspace/eclipse/BestPlace/app/src/main/res/layout/screen_edit.xml"
+    },
+    {
+        "merged": "/home/sefa/Genel/mega/Ubuntu/workspace/eclipse/BestPlace/app/build/intermediates/res/merged/debug/layout/spinner_item.xml",
+        "source": "/home/sefa/Genel/mega/Ubuntu/workspace/eclipse/BestPlace/app/src/main/res/layout/spinner_item.xml"
+    }
+]

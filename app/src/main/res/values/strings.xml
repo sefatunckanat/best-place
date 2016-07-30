@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Best Place</string>
+    <string name="logo_copyright">Best Place - 2016</string>
+    <string name="loading">Yükleniyor</string>
+    
+    <string name="login_et_nick">Kullanıcı Adınız</string>
+    <string name="login_et_pass">Şifreniz</string>
+    <string name="login_bt_text">Giriş Yap</string>
+    <string name="login_tv_register">Yeni hesap oluştur</string>
+
+    <string name="register_tv_register">Aramıza Katıl</string>
+    <string name="register_tv_mail">Mail Adresiniz</string>
+    <string name="register_tv_submit">Kayıt İşlemini Bitir</string>
+</resources>

@@ -1,0 +1,98 @@
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@color/blue_background"
+    tools:context=".screens.SplashScreen"
+    >
+	<RelativeLayout 
+	    android:id="@+id/login_rel_background"
+	    android:layout_width="fill_parent"
+	    android:layout_height="fill_parent">
+	     <ImageView
+			  	android:contentDescription="@string/logo_copyright"
+				android:id="@+id/imageView1"
+				android:layout_width="fill_parent"
+				android:layout_height="fill_parent"
+				android:src="@drawable/background"/>
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="Sefa Tunçkanat @ 2016"
+            android:textSize="16dp"
+            android:layout_marginBottom="30dp"
+            android:id="@+id/textView"
+            android:layout_alignParentBottom="true"
+            android:layout_centerHorizontal="true"
+            android:textColor="#fff"/>
+    </RelativeLayout>
+  	
+   <RelativeLayout
+       android:id="@+id/login_rel_center"
+       android:layout_width="wrap_content"
+       android:layout_height="wrap_content"
+       android:layout_centerHorizontal="true"
+       android:layout_centerVertical="true"
+       android:padding="30dp">
+
+       <TextView
+           android:id="@+id/login_tv_app"
+           android:layout_margin="10dp"
+           android:layout_width="wrap_content"
+           android:layout_height="wrap_content"
+           android:layout_centerHorizontal="true"
+           android:text="@string/app_name"
+           android:textAppearance="?android:attr/textAppearanceLarge"
+           android:textColor="@color/white"
+           android:textSize="30sp"/>
+       <EditText 
+           android:id="@+id/login_et_nick"
+           android:layout_margin="10dp"
+           android:padding="10dp"
+           android:layout_width="match_parent"
+           android:layout_height="wrap_content"
+           android:inputType="text"
+           android:lines="1"
+           android:background="@color/blue_background_dark"
+           android:typeface="normal"
+           android:layout_below="@+id/login_tv_app"
+           android:textColorHint="@color/white2"
+           android:hint="@string/login_et_nick"
+           android:textColor="@color/white"/>
+       <EditText 
+           android:id="@+id/login_et_pass"
+           android:layout_margin="10dp"
+           android:padding="10dp"
+           android:layout_width="match_parent"
+           android:layout_height="wrap_content"
+           android:inputType="textPassword"
+           android:typeface="normal"
+           android:background="@color/blue_background_dark"
+           android:layout_below="@+id/login_et_nick"
+           android:textColorHint="@color/white2"
+           android:hint="@string/login_et_pass"
+           android:textColor="@color/white"/>
+       <Button 
+           android:id="@+id/login_bt_login"
+           android:layout_margin="10dp"
+           android:padding="10dp"
+           android:textColor="@color/black"
+           android:layout_width="match_parent"
+           android:layout_height="wrap_content"
+           android:layout_below="@+id/login_et_pass"
+           android:background="@drawable/shape_login_bt"
+           android:text="@string/login_bt_text"/>
+
+       <TextView
+           android:id="@+id/login_tv_register"
+           android:layout_width="wrap_content"
+           android:layout_height="wrap_content"
+           android:text="@string/login_tv_register"
+           android:layout_below="@+id/login_bt_login"
+           android:textColor="@color/white2"
+           android:layout_centerHorizontal="true" />
+
+   </RelativeLayout>
+
+</RelativeLayout>

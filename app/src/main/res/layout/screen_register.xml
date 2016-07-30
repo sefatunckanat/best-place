@@ -1,0 +1,102 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+                xmlns:tools="http://schemas.android.com/tools"
+                android:orientation="vertical"
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:background="@color/blue_background"
+                tools:context=".screens.RegisterScreen">
+
+    <RelativeLayout
+        android:layout_width="fill_parent"
+        android:layout_height="fill_parent">
+        <ImageView
+            android:contentDescription="@string/logo_copyright"
+            android:id="@+id/imageView1"
+            android:layout_width="fill_parent"
+            android:layout_height="fill_parent"
+            android:src="@drawable/background"/>
+    </RelativeLayout>
+
+    <RelativeLayout
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_centerHorizontal="true"
+        android:layout_centerVertical="true"
+        android:padding="30sp">
+
+        <TextView
+            android:id="@+id/register_tv_app"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_centerHorizontal="true"
+            android:text="@string/register_tv_register"
+            android:textAppearance="?android:attr/textAppearanceLarge"
+            android:textColor="@color/white"
+            android:textSize="30sp"/>
+        <EditText
+            android:id="@+id/register_et_username"
+            android:layout_margin="10dp"
+            android:padding="10dp"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:inputType="text"
+            android:lines="1"
+            android:background="@color/blue_background_dark"
+            android:typeface="normal"
+            android:layout_below="@+id/register_tv_app"
+            android:textColorHint="@color/white2"
+            android:hint="@string/login_et_nick"
+            android:textColor="@color/white"/>
+
+        <EditText
+            android:id="@+id/register_et_pass"
+            android:layout_margin="10dp"
+            android:padding="10dp"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:inputType="textPassword"
+            android:typeface="normal"
+            android:background="@color/blue_background_dark"
+            android:layout_below="@+id/register_et_username"
+            android:textColorHint="@color/white2"
+            android:hint="@string/login_et_pass"
+            android:textColor="@color/white"/>
+        <EditText
+            android:id="@+id/register_et_mail"
+            android:layout_margin="10dp"
+            android:padding="10dp"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:inputType="textEmailAddress"
+            android:typeface="normal"
+            android:background="@color/blue_background_dark"
+            android:layout_below="@+id/register_et_pass"
+            android:textColorHint="@color/white2"
+            android:hint="@string/register_tv_mail"
+            android:textColor="@color/white"/>
+
+        <Spinner
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:id="@+id/register_sp_sehirler"
+            android:layout_below="@+id/register_et_mail"
+            android:layout_alignParentRight="true"
+            android:padding="10dp"
+            android:layout_marginTop="10dp"
+            />
+
+        <Button
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:textColor="#000"
+            android:id="@+id/register_bt_submit"
+            android:background="@drawable/shape_login_bt"
+            android:text="@string/register_tv_submit"
+            android:layout_below="@+id/register_sp_sehirler"
+            android:layout_marginTop="10dp"/>
+
+
+    </RelativeLayout>
+
+</RelativeLayout>

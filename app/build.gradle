@@ -1,0 +1,29 @@
+apply plugin: 'com.android.application'
+android {
+    compileSdkVersion 16
+    buildToolsVersion '23.0.3'
+
+    defaultConfig {
+        applicationId "sefatunckanat.bestplace"
+        minSdkVersion 15
+        targetSdkVersion 15
+    }
+
+    buildTypes {
+        release {
+            minifyEnabled false
+            proguardFiles getDefaultProguardFile('proguard-android.txt'), 'proguard-rules.txt'
+        }
+    }
+    compileOptions {
+        targetCompatibility JavaVersion.VERSION_1_7
+    }
+}
+
+dependencies {
+    compile 'com.github.siyamed:android-shape-imageview:0.9.+@aar'
+    compile group: 'org.apache.httpcomponents' , name: 'httpclient-android' , version: '4.3.5.1'
+    compile('org.apache.httpcomponents:httpmime:4.3') {
+        exclude module: "httpclient"
+    }
+}

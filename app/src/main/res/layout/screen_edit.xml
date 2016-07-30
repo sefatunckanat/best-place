@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+              xmlns:app="http://schemas.android.com/apk/res-auto"
+              android:orientation="vertical"
+              android:layout_width="match_parent"
+              android:layout_height="match_parent"
+              android:background="@color/blue_background">
+    <RelativeLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:padding="10dp">
+        <com.github.siyamed.shapeimageview.CircularImageView
+            android:id="@+id/edit_picture"
+            android:layout_width="100dp"
+            android:layout_height="100dp"
+            android:layout_centerHorizontal="true"
+            android:src="@drawable/ic_launcher"
+            app:siBorderWidth="6dp"
+            app:siBorderColor="@color/blue_background_dark"
+            android:layout_margin="10dp"/>
+        <EditText
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:id="@+id/edit_name"
+            android:layout_below="@+id/edit_picture"
+            android:background="@color/white"
+            android:layout_margin="5dp"
+            android:padding="10dp"
+            android:hint="Gerçek İsminiz"/>
+        <EditText
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:id="@+id/edit_username"
+            android:layout_below="@+id/edit_name"
+            android:background="@color/white"
+            android:layout_margin="5dp"
+            android:padding="10dp"
+            android:hint="Kullanıcı Adınız"/>
+        <EditText
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:id="@+id/edit_bio"
+            android:layout_below="@+id/edit_username"
+            android:background="@color/white"
+            android:layout_margin="5dp"
+            android:padding="10dp"
+            android:hint="Biografiniz"/>
+        <Spinner
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:id="@+id/edit_sp_sehirler"
+            android:layout_below="@+id/edit_bio"
+            android:layout_alignParentRight="true"
+            android:padding="10dp"
+            android:layout_margin="5dp"
+            />
+        <Button
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_margin="5dp"
+            android:padding="10dp"
+            android:textColor="#fff"
+            android:id="@+id/edit_edit"
+            android:background="@color/blue_background_dark"
+            android:text="Kaydet"
+            android:layout_below="@+id/edit_sp_sehirler"/>
+    </RelativeLayout>
+
+
+
+</LinearLayout>

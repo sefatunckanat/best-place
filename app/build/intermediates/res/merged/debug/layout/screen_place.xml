@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+              xmlns:app="http://schemas.android.com/apk/res-auto"
+              android:orientation="vertical"
+              android:layout_width="match_parent"
+              android:layout_height="match_parent"
+    android:background="@color/white">
+    <RelativeLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:padding="10dp"
+        android:background="@color/blue_background">
+        <com.github.siyamed.shapeimageview.CircularImageView
+            android:id="@+id/place_picture"
+            android:layout_width="100dp"
+            android:layout_height="100dp"
+            android:layout_centerHorizontal="true"
+            android:src="@drawable/ic_launcher"
+            app:siBorderWidth="6dp"
+            app:siBorderColor="@color/blue_background_dark"
+            android:layout_margin="10dp"/>
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="name"
+            android:id="@+id/place_name"
+            android:layout_centerHorizontal="true"
+            android:textColor="@color/white"
+            android:layout_below="@+id/place_picture"
+            android:textSize="20dp"/>
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="username"
+            android:id="@+id/place_des"
+            android:textColor="@color/white2"
+            android:layout_centerHorizontal="true"
+            android:layout_below="@+id/place_name"
+            android:textSize="12dp"/>
+
+        <Spinner
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_below="@id/place_des"
+            android:id="@+id/place_oyla">
+        </Spinner>
+        <Button
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="Oyla"
+            android:id="@+id/place_btn_oyla"
+            android:textColor="#fff"
+            android:background="@color/blue_background_dark"
+            android:layout_centerHorizontal="true"
+            android:layout_below="@+id/place_oyla"/>
+
+    </RelativeLayout>
+
+    <ListView
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:id="@+id/place_list"/>
+
+
+</LinearLayout>

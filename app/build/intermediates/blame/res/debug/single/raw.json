@@ -1,0 +1,26 @@
+[
+    {
+        "merged": "/home/sefa/Genel/mega/Ubuntu/workspace/eclipse/BestPlace/app/build/intermediates/res/merged/debug/raw/imgview_hexagon.svg",
+        "source": "/home/sefa/Genel/mega/Ubuntu/workspace/eclipse/BestPlace/app/build/intermediates/exploded-aar/com.github.siyamed/android-shape-imageview/0.9.3/res/raw/imgview_hexagon.svg"
+    },
+    {
+        "merged": "/home/sefa/Genel/mega/Ubuntu/workspace/eclipse/BestPlace/app/build/intermediates/res/merged/debug/raw/imgview_star.svg",
+        "source": "/home/sefa/Genel/mega/Ubuntu/workspace/eclipse/BestPlace/app/build/intermediates/exploded-aar/com.github.siyamed/android-shape-imageview/0.9.3/res/raw/imgview_star.svg"
+    },
+    {
+        "merged": "/home/sefa/Genel/mega/Ubuntu/workspace/eclipse/BestPlace/app/build/intermediates/res/merged/debug/raw/imgview_heart.svg",
+        "source": "/home/sefa/Genel/mega/Ubuntu/workspace/eclipse/BestPlace/app/build/intermediates/exploded-aar/com.github.siyamed/android-shape-imageview/0.9.3/res/raw/imgview_heart.svg"
+    },
+    {
+        "merged": "/home/sefa/Genel/mega/Ubuntu/workspace/eclipse/BestPlace/app/build/intermediates/res/merged/debug/raw/imgview_octogon.svg",
+        "source": "/home/sefa/Genel/mega/Ubuntu/workspace/eclipse/BestPlace/app/build/intermediates/exploded-aar/com.github.siyamed/android-shape-imageview/0.9.3/res/raw/imgview_octogon.svg"
+    },
+    {
+        "merged": "/home/sefa/Genel/mega/Ubuntu/workspace/eclipse/BestPlace/app/build/intermediates/res/merged/debug/raw/imgview_diamond.svg",
+        "source": "/home/sefa/Genel/mega/Ubuntu/workspace/eclipse/BestPlace/app/build/intermediates/exploded-aar/com.github.siyamed/android-shape-imageview/0.9.3/res/raw/imgview_diamond.svg"
+    },
+    {
+        "merged": "/home/sefa/Genel/mega/Ubuntu/workspace/eclipse/BestPlace/app/build/intermediates/res/merged/debug/raw/imgview_pentagon.svg",
+        "source": "/home/sefa/Genel/mega/Ubuntu/workspace/eclipse/BestPlace/app/build/intermediates/exploded-aar/com.github.siyamed/android-shape-imageview/0.9.3/res/raw/imgview_pentagon.svg"
+    }
+]
