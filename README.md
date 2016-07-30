@@ -10,4 +10,4 @@ sunucu ismi ve şifresini değiştirmeniz gerekmekte.
 Uygulama üniversite son ders ödevim projemdir bug veya eksikler bulunabilir :)
 
 # Önizleme
-![alt tag](https://raw.githubusercontent.com/sefatunckanat/best-place/branch/img-git/previews.jpg)
+![Önizleme](https://raw.githubusercontent.com/sefatunckanat/best-place/master/img-git/previews.jpg)
